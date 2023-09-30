@@ -2,3 +2,4 @@
 
 1. Personal Portfolio website; https://soulistic.github.io/Md_Faiz_Alam.github.io/
 2. Razorpay frontend clone using tailwind; https://rrazorpay.netlify.app/
+3. Password Generator; https://ppasscodegenerator.netlify.app/
